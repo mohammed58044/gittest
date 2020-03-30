@@ -1,6 +1,7 @@
 this is git project
-added a new line
+adding new line
 adding some content
 test on jenkins
 upadting file
 working on pycharm
+
