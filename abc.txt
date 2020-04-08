@@ -2,6 +2,5 @@ this is git project
 adding new line
 adding some content
 test on jenkins
-upadting file
 working on pycharm
 
